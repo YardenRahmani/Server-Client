@@ -47,4 +47,4 @@ Runs the simulation multiple times with different parameters and visualizes the 
    - Make sure both executables are in the same directory as the script for proper execution.
 
 4. Adjustment:
-   - Adjustments my be needed, based on your development environment.
+   - Adjustments my be needed, based on your development environment. Developed for Windows 11.
